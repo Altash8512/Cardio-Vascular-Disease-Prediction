@@ -1,16 +1,36 @@
-Cardiovascular Disease Prediction
-A machine learning application designed to predict the risk of cardiovascular disease (CVD) based on a patient's health metrics. It features a comprehensive data analysis pipeline and a user-friendly graphical interface (GUI) for making real-time predictions.
+[🫀 Cardiovascular Disease Prediction
+
+A machine learning application designed to predict the risk of cardiovascular disease (CVD) based on a patient's health metrics.
+It features a comprehensive data analysis pipeline and a user-friendly GUI for making real-time predictions.
 
 🚀 Features
-Data Analysis & Pre-processing: Cleans and prepares the cardiovascular disease dataset, handling outliers and duplicates.
 
-Model Training: Trains a Random Forest Classifier on the processed data to predict CVD risk.
+Data Analysis & Pre-processing
 
-Interactive UI: A simple and intuitive graphical interface built with Tkinter to input patient data and get instant risk predictions.
+Cleans and prepares the cardiovascular disease dataset
 
-Saved Model: The trained model and data scaler are saved, so the analysis script only needs to be run once.
+Handles outliers and duplicate values
+
+Model Training
+
+Trains a Random Forest Classifier on the processed data
+
+Predicts the risk of cardiovascular disease
+
+Interactive UI
+
+Built with Tkinter
+
+Allows users to input patient data and get instant predictions
+
+Saved Model
+
+Trained model and scaler are stored using Joblib
+
+Eliminates the need to retrain every time
 
 🛠️ Technologies Used
+
 Python – Core programming language
 
 Pandas – Data manipulation and analysis
@@ -24,30 +44,38 @@ Tkinter – Graphical user interface
 Joblib – Saving and loading trained models
 
 ⚙️ Getting Started
-Follow these steps to set up and run the application on your local machine.
+
+Follow these steps to set up and run the application locally.
 
 1. Prerequisites
-Ensure you have Python installed. Then install the necessary libraries:
+
+Ensure you have Python installed. Then install the required libraries:
 
 pip install numpy pandas matplotlib seaborn scikit-learn joblib
 
 2. Train the Model
-Before using the prediction app, run the analysis script to train the model and generate the required files. Make sure you have the cardio_train.csv file in your project directory.
+
+Before using the prediction app, run the analysis script to train the model.
+Make sure you have the dataset cardio_train.csv in your project directory.
 
 python cardio_analysis.py
 
-This will create the following files in your project directory:
 
-heart_disease_model.pkl – The trained machine learning model
+This will generate the following files in your project directory:
 
-heart_disease_scaler.pkl – The saved scaler for pre-processing
+heart_disease_model.pkl – Trained machine learning model
+
+heart_disease_scaler.pkl – Saved scaler for pre-processing
 
 3. Run the Prediction App
-Launch the user interface:
+
+Now launch the user interface:
 
 python cardio4.py
 
-The "Cardiovascular Disease Prediction" window will appear. Enter the patient's data and click the Predict button to see the result.
+
+The "Cardiovascular Disease Prediction" window will appear.
+Enter patient data and click Predict to see the result.
 
 📁 Project Structure
 .
@@ -56,4 +84,4 @@ The "Cardiovascular Disease Prediction" window will appear. Enter the patient's 
 ├── cardio_train.csv            # Dataset used for training
 ├── heart_disease_model.pkl     # Saved trained machine learning model
 ├── heart_disease_scaler.pkl    # Saved scaler for pre-processing
-└── README.md                   # Project documentation
+└── README.md                   # Project documentation](https://g.co/gemini/share/353cafd7498b)
