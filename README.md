@@ -42,7 +42,7 @@ Here are a few examples of the application in action.
 
 | Main Interface | Prediction Result | Model Accuracies |
 |:----------------------------------------------------------:|:---------------------------------------------------------------:|:-------------------------------------------------------------------:|
-| <img src="./screenshots/input window.png" alt="Main Application Window" width="250"/> | <img src="./screenshots/prediction 1.png" alt="Prediction Result" width="250"/> | <img src="./screenshots/model accuracies.png" alt="Model Accuracies" width="250"/> |
+| <img src="./screenshots/input window.png" alt="Main Application Window" width="250"/> | <img src="./screenshots/prediction.png" alt="Prediction Result" width="250"/> | <img src="./screenshots/model accuracies.png" alt="Model Accuracies" width="250"/> |
 
 
 ---
