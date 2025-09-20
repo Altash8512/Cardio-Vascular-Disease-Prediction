@@ -40,9 +40,10 @@ It features a comprehensive **data analysis pipeline** and a **user-friendly GUI
 
 Here are a few examples of the application in action.
 
-| Main Interface | Prediction Result | Model Accuracies |
+| Main Interface | Prediction Result | Model Details |
 |:----------------------------------------------------------:|:---------------------------------------------------------------:|:-------------------------------------------------------------------:|
-| <img src="./screenshots/input window.png" alt="Main Application Window" width="250"/> | <img src="./screenshots/prediction.png" alt="Prediction Result" width="250"/> | <img src="./screenshots/model accuracies.png" alt="Model Accuracies" width="250"/> |
+| <img src="./screenshots/input window.png" alt="Main Application Window" width="250"/> | <img src="./screenshots/prediction 1.png" alt="Prediction Result (Positive)" width="250"/> | <img src="./screenshots/model accuracies.png" alt="Model Accuracies Comparison" width="250"/> |
+| <img src="./screenshots/input window 1.png" alt="Alternative Input Window" width="250"/> | <img src="./screenshots/prediction.png" alt="Prediction Result (Negative)" width="250"/> | <img src="./screenshots/trained model.png" alt="Trained Model Confirmation" width="250"/> |
 
 
 ---
