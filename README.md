@@ -1,5 +1,5 @@
 # Cardiovascular Disease Prediction
-
+A machine learning application designed to predict the risk of cardiovascular disease (CVD) based on a patient's health metrics. It features a comprehensive data analysis pipeline and a user-friendly graphical interface (GUI) for making real-time predictions.
 
 
 ---
@@ -39,7 +39,8 @@ pip install numpy pandas matplotlib seaborn scikit-learn joblib
 ### 2. Train the Model
 Before using the prediction app, run the analysis script to train the model and generate required files:
 
-"python cardio_analysis.py"
+```bash
+python cardio_analysis.py
 
 This will create the following files in your project directory:
 
@@ -51,7 +52,7 @@ heart_disease_scaler.pkl – The saved scaler for pre-processing
 ### 3. Run the Prediction App
 Launch the user interface:
 
-bash
+```bash
 python cardio4.py
 The "Cardiovascular Disease Prediction" window will appear.
 
