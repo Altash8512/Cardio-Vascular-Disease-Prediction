@@ -36,7 +36,7 @@ Ensure you have Python installed. Then install the necessary libraries:
 pip install numpy pandas matplotlib seaborn scikit-learn joblib
 
 ---
-###2. Train the Model
+### 2. Train the Model
 Before using the prediction app, run the analysis script to train the model and generate required files:
 
 "python cardio_analysis.py"
@@ -48,7 +48,7 @@ heart_disease_model.pkl – The trained machine learning model
 heart_disease_scaler.pkl – The saved scaler for pre-processing
 
 ---
-###3. Run the Prediction App
+### 3. Run the Prediction App
 Launch the user interface:
 
 bash
@@ -57,7 +57,7 @@ The "Cardiovascular Disease Prediction" window will appear.
 
 Enter the patient's data and click the Predict button to see the result.
 ---
-##📁 Project Structure
+## 📁 Project Structure
 
 .
 ├── cardio_analysis.py        # Script for data analysis and model training
