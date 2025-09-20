@@ -40,11 +40,10 @@ It features a comprehensive **data analysis pipeline** and a **user-friendly GUI
 
 Here are a few examples of the application in action.
 
-| Main Interface | Risk Prediction | No-Risk Prediction |
+| Main Interface | Prediction Result | Model Accuracies |
 |:----------------------------------------------------------:|:---------------------------------------------------------------:|:-------------------------------------------------------------------:|
-| <img src="screenshots/app-main.png" alt="Main Application Window" width="250"/> | <img src="screenshots/prediction-risk.png" alt="Risk Prediction Result" width="250"/> | <img src="screenshots/prediction-no-risk.png" alt="No-Risk Prediction Result" width="250"/> |
+| <img src="./screenshots/input window.png" alt="Main Application Window" width="250"/> | <img src="./screenshots/prediction 1.png" alt="Prediction Result" width="250"/> | <img src="./screenshots/model accuracies.png" alt="Model Accuracies" width="250"/> |
 
-> **Note:** To use your own screenshots, place them in a `screenshots` folder and update the image paths in this `README.md` file.
 
 ---
 
